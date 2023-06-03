@@ -22,7 +22,7 @@ function App() {
 
       </div>
       <p className="read-the-docs">
-        Copyright DesignLabs.lk
+        😋 2023 DesignLabs.lk
       </p>
     </>
   )
